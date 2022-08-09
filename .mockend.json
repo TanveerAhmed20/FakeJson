@@ -1,0 +1,8 @@
+{
+Course:{
+  "courseId":"string",
+  "courseName":"string",
+  "courseDuration":"string",
+  "courseFee":"string"
+}
+}
